@@ -13,7 +13,7 @@ export default function LinkedInScraperArticle() {
     <div className="claude-container">
       <Head>
         <title>Building a LinkedIn Comment Scraper | Claudere.ai</title>
-        <meta name="description" content="Learn how we built a Chrome extension to scrape LinkedIn post comments" />
+        <meta name="description" content="Learn how we built a Chrome extension to scrape LinkedIn post & comments" />
         <link rel="icon" href="/favicon.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
@@ -41,6 +41,7 @@ export default function LinkedInScraperArticle() {
             <li>Save the data in a structured format for analysis</li>
           </ol>
           
+          <h2>Here is the <a href="https://github.com/Ankur10gen/LSPlugin">code repository</a></h2>
           <h2>Setting Up the Chrome Extension</h2>
           
           <p>We started by creating a basic Chrome extension structure with these files:</p>
